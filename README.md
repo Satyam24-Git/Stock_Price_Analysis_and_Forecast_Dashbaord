@@ -22,14 +22,14 @@ Features
 🚀 How to Run
 Clone the repository:
 
-bash
+
 git clone https://github.com/yourusername/stock-price-webapp.git
 cd stock-price-webapp
 Install dependencies:
 
-bash
+
 pip install -r requirements.txt
 Run the app:
 
-bash
+
 streamlit run app.py
