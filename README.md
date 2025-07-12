@@ -18,19 +18,6 @@ Features
 - Forecast Table	Interactive forecast table using Plotly
 - Streamlit UI	Easy-to-use sliders, inputs, and buttons
 
-📦 Folder Structure
-bash
-Edit
-├── app.py                        # Homepage (Streamlit)
-├── pages/
-│   ├── Stock_analysis.py        # Technical indicators page
-│   └── Stock_prediction.py      # Price prediction page
-├── utils/
-│   ├── model_train.py           # ARIMA model, scaler, forecasting utils
-│   └── plotly_figure.py         # Plotly chart helper functions
-├── requirements.txt             # Python dependencies
-└── README.md                    # You're reading it!
-
 
 🚀 How to Run
 Clone the repository:
