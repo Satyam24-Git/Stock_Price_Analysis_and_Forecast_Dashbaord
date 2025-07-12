@@ -20,15 +20,20 @@ Features
 
 
 How to Run
-Clone the repository
+1. Clone the repository
 
-cd stock-price-webapp
+2. Open your terminal or command prompt.
 
-Install dependencies
+3. Navigate to the project folder where your app files are saved.
 
+4. Make sure you have Python installed (preferably version 3.9 or later).
 
-pip install -r requirements.txt
-Run the app:
+5. Install all required Python libraries by running the following command:
 
+6. pip install -r requirements.txt
 
-streamlit run app.py
+7. After the installation is complete, start the web app by running:
+
+8. streamlit run app.py
+
+Your default browser will open the app automatically. If it doesn't, copy the local URL shown in the terminal and paste it into your browser.
