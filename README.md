@@ -19,13 +19,12 @@ Features
 - Streamlit UI	Easy-to-use sliders, inputs, and buttons
 
 
-🚀 How to Run
-Clone the repository:
+How to Run
+Clone the repository
 
-
-git clone https://github.com/yourusername/stock-price-webapp.git
 cd stock-price-webapp
-Install dependencies:
+
+Install dependencies
 
 
 pip install -r requirements.txt
